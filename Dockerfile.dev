@@ -1,0 +1,8 @@
+FROM node:10.8-alpine
+
+# Override the base log level (info).
+ENV NPM_CONFIG_LOGLEVEL error
+
+# Copy all local files into the image.
+RUN mkdir -p /api
+WORKDIR /api

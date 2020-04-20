@@ -1,0 +1,1 @@
+{"options":{"autoIndexId":true},"indexes":[{"v":{"$numberInt":"1"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"rtms-events.socialbots"}],"uuid":"e4da3466c167462d89088abeda8818d4"}

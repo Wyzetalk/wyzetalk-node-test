@@ -1,0 +1,8 @@
+version: '2'
+services:
+  prod:
+    restart: unless-stopped
+    build: .
+    ports:
+      - "3040:3040"
+    command: yarn start

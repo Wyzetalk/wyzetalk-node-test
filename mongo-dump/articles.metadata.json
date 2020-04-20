@@ -1,0 +1,1 @@
+{"options":{"autoIndexId":true},"indexes":[{"v":{"$numberInt":"1"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"rtms-events.articles"}],"uuid":"e482c1fea26f49eca3a59beac2412378"}
